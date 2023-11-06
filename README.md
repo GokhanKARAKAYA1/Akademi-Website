@@ -6,5 +6,5 @@ Bu çalışmamızda ileri düzey Html ve Css kod dizilimleri kullanılarak bir b
 
 <h5>Ekran Goruntusu</h5>
 
-![](gif)
+![](gif.gif)
 
